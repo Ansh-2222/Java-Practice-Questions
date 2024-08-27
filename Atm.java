@@ -36,6 +36,7 @@ public class Atm {
             }
         }
 
+        sc.close();
     }
 
 }
