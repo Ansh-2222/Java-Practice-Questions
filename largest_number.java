@@ -17,6 +17,9 @@ public class largest_number {
         else
         System.out.println(c +" is Largest");
 
-        
+
+    sc.close();        
     }
+
 }
+
