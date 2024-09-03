@@ -18,5 +18,6 @@ public class prime_number {
             System.out.println("number is   prime");
         }
 
+   sc.close();
     }
 }
