@@ -20,5 +20,6 @@ System.out.println("The GCD is " + a);
 
      
 
+    sc.close();
 }    
 }

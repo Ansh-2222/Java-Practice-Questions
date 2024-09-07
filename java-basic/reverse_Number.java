@@ -14,5 +14,7 @@ public class reverse_Number {
 
         }
     System.out.println("The reversed number is " + y);
-    }
+    
+        sc.close();
+}
 }

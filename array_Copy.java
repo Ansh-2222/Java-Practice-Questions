@@ -17,5 +17,6 @@ System.out.println("After coping Array 2 is");
             System.out.print(arr2[i]+" ");
         }
 
-    }
+        sc.close();
+}
 }

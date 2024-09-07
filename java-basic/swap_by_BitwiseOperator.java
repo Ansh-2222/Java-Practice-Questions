@@ -21,6 +21,7 @@ public class swap_by_BitwiseOperator {
 
         
 
-    }
+       sc.close();
+ }
 
 }

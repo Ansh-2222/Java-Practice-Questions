@@ -18,5 +18,6 @@ public class array_Input {
             System.out.print(arr[i]+" ");
         }
 
+    sc.close();
     }
 }

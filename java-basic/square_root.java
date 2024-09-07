@@ -22,6 +22,7 @@ public class square_root {
             System.out.println("The nunber you entered is not a perfect square");
         }
 
-    }
+        sc.close();
+}
 
 }

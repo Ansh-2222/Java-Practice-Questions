@@ -18,5 +18,6 @@ public class a7 {
             b = c;
 
         }
-    }
+        sc.close();
+}
 }
